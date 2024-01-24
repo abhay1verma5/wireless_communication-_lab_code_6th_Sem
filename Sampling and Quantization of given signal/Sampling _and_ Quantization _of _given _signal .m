@@ -1,6 +1,6 @@
 %  Institute: Indian Institute of Information Technology Nagpur
 %  Laboratory: Wireless Communication
-%  Engineer: Ar 
+%  Engineer: Abhay Kumar Verma
 %  Create Date: 22.01.2024 16:41:17
 %  Project Name: Sampling and Quantization of given signal 
 %  Tool: Matlab
